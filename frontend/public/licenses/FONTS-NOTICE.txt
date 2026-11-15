@@ -1,0 +1,21 @@
+Third-party fonts bundled with CARA v4.2 (self-hosted; no request is made to Google Fonts at runtime)
+
+1. Geist
+   Copyright The Geist Project Authors (https://github.com/vercel/geist-font)
+   Licence: SIL Open Font License 1.1  ->  /licenses/OFL-Geist.txt
+   File: assets/fonts/geist-*.woff2 (variable font, weights 300-700, split by unicode-range subset)
+
+2. Space Grotesk
+   Copyright The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)
+   Licence: SIL Open Font License 1.1  ->  /licenses/OFL-Space-Grotesk.txt
+   File: assets/fonts/space-grotesk-*.woff2 (variable font, weights 400-700, split by unicode-range subset)
+
+3. Material Symbols Outlined
+   Copyright Google LLC (https://github.com/google/material-design-icons)
+   Licence: Apache License 2.0  ->  /licenses/Apache-2.0-Material-Symbols.txt
+   File: assets/fonts/material-symbols-outlined.woff2 (variable font: weight 100-700, FILL 0-1)
+
+Provenance: the woff2 files are the unmodified files served by the Google Fonts distribution (fonts.gstatic.com) for these
+three open-licence families, downloaded once and committed so that the application no longer depends on Google at runtime.
+The licence texts above were taken from each project's official repository. The fonts are used unmodified; the
+unicode-range subsetting was done by the Google Fonts service, not by this project.

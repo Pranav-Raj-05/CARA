@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Neutral demo driver avatar">
+<!-- Original illustration created for the CARA v4.2 prototype: a generic head-and-shoulders silhouette, not a real person. -->
+<defs>
+  <radialGradient id="a-bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#17495c"/><stop offset="1" stop-color="#08121b"/></radialGradient>
+  <linearGradient id="a-fg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fe9ff"/><stop offset="1" stop-color="#1d7f9a"/></linearGradient>
+</defs>
+<rect width="512" height="512" fill="url(#a-bg)"/>
+<circle cx="256" cy="198" r="92" fill="url(#a-fg)" opacity=".92"/>
+<path d="M 82 512 C 82 392 160 338 256 338 C 352 338 430 392 430 512 Z" fill="url(#a-fg)" opacity=".92"/>
+<circle cx="256" cy="256" r="244" fill="none" stroke="#00d4ff" stroke-width="6" opacity=".55"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="CARA placeholder logo">
+  <!--
+    TEMPORARY PLACEHOLDER: a plain cyan "C" monogram. This is NOT the official CARA logo.
+    To use the real logo: replace this file (keep the file name) or change the one import in
+    src/components/layout/Sidebar.jsx.
+  -->
+  <path d="M23.78 8.22 A11 11 0 1 0 23.78 23.78" fill="none" stroke="#00D4FF" stroke-width="4" stroke-linecap="round"/>
+</svg>
